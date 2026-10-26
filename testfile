@@ -1,6 +1,10 @@
 test file
 for testing
+<<<<<<< HEAD
 
 reset 2nd
 
 
+=======
+retest the file
+>>>>>>> qa
